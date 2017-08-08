@@ -1,1 +1,1 @@
-Hello, this is my blog that shares sth valuable.Thanks
+## Hello, this is my blog that shares something valuable. Thanks
